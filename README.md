@@ -1,4 +1,4 @@
-# <h1 align="center">LuaC</h1>
+# <h1 align="center">LuaFlex</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-GPL%203.0-blue.svg" alt="License: GPL 3.0">
